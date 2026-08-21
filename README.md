@@ -6,5 +6,5 @@ tema elegido: Tipos de buses y puertos
 
 21/8
 
-descripcion:planeo trabajar sobre los diferentes puertos 
+descripcion:planeo trabajar sobre los diferentes puertos
 
